@@ -6,7 +6,7 @@ python3 利用TF特征向量和sim hash指纹计算中文文本的相似度的�
 创建时间：2018-12-25<BR/>
 最后一次更新时间：2019-12-13<BR/>
 <BR/> 
-CSDN博客地址——Python开发 之 利用TF特征向量和sim hash指纹计算中文文本的相似度的示例：<BR/> 
+CSDN博客地址——Python开发 之 利用TF特征向量和Simhash指纹计算中文文本的相似度的示例：<BR/> 
 https://shazhenyu.blog.csdn.net/article/details/103522732 <BR/>
 # 3、过程
 - 准备测试数据<BR/>
