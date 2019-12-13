@@ -1,0 +1,2 @@
+# Demo_TFIDF_Simhash_Python
+python3 利用用TF特征向量和sim hash指纹计算中文文本的相似度的示例
