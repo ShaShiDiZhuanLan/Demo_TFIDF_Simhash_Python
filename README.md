@@ -9,11 +9,11 @@ python3 利用TF特征向量和sim hash指纹计算中文文本的相似度的�
 CSDN博客地址——Python开发 之 利用TF特征向量和sim hash指纹计算中文文本的相似度的示例：<BR/> 
 https://shazhenyu.blog.csdn.net/article/details/103522732 <BR/>
 # 3、过程
-file_name = "test.json"                     # 1、准备测试数据<BR/>
-preProcessingData(file_name)                # 2、预处理读到的数据 <BR/>
-nodeMap = processFlowMap[file_name]         # 3、加载数据到Map中<BR/>
-userQuestion = "你打错号码了"                # 4、输入用户问题<BR/>
-textSimilarity(userQuestion, nodeMap, "1")  # 5、利用TF特征向量和sim hash指纹计算出 预处理的配置文件中的分值<BR/>
+- 准备测试数据<BR/>
+- 预处理读到的数据 <BR/>
+- 加载数据到Map中<BR/>
+- 输入用户问题<BR/>
+- 利用TF特征向量和Simhash指纹计算出 预处理的配置文件中的分值<BR/>
 # 4、预先安装包
 此项目需要先安装 jieba
 # 5、效果图
